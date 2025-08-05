@@ -7,6 +7,6 @@ resources:
 namespace: nodejs-dev-x03-staging
 
 images:
-- digest: sha256:0f420509d228099a8cd16193e8ba6a2a6582f3d5961e73e509c1e2f0c22b4919
+- digest: sha256:f4fb5a13a7b1f04493036f85cc6679966ff48d7c55edc64d45e8820028bc0c0e
   name: ___IMAGE_URL___@___IMAGE_DIGEST___
   newName: quay-registry-quay-quay.apps.rosa.sb1237-rosa.b20c.p3.openshiftapps.com/skitamura-quay-org/nodejs-dev-x03/nodejs-dev-x03
