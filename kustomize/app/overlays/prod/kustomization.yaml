@@ -7,6 +7,6 @@ resources:
 namespace: nodejs-dev-x03-production
 
 images:
-- digest: sha256:085b9d73976428c1f6c2966fd6292306a6d2c60e1f6a5648fcc7b303f937f076
+- digest: sha256:1fb5c64e149eaba93a12d29e4b6f81b714c793bfeed03e5fe3362d4363798504
   name: ___IMAGE_URL___@___IMAGE_DIGEST___
   newName: quay-registry-quay-quay.apps.rosa.sb1237-rosa.b20c.p3.openshiftapps.com/skitamura-quay-org/nodejs-dev-x03/nodejs-dev-x03
